@@ -1,5 +1,5 @@
 linguist==0.1.1
 Pygments==2.1.3
-pygments-github-lexers==0.1
+pygments-github-lexers==0.0.5
 scanner==0.0.5
 mime==0.0.3
